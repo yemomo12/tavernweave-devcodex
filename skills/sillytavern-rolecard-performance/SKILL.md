@@ -1,6 +1,7 @@
 ---
 name: sillytavern-rolecard-performance
-description: 'Measure, compare, and gate large SillyTavern rolecards using deterministic size, prompt, worldbook, regex, helper-script, embedded-media, and captured runtime budgets. Use when the task requires a performance audit, regression baseline, release budget, or smallest optimization plan without silently deleting card behavior.'
+description: '【卡性能|卡太大|提速】Measure, compare, and gate large SillyTavern rolecards using deterministic size, prompt, worldbook, regex, helper-script, embedded-media, and captured runtime budgets. Use when the task requires a performance audit, regression baseline, release budget, or smallest optimization plan without silently deleting card behavior.'
+trigger: '卡性能|卡太大|提速|token优化|性能'
 ---
 
 # SillyTavern Rolecard Performance
