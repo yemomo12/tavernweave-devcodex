@@ -1,6 +1,7 @@
 ---
 name: sillytavern-render-regex-pipeline
-description: 'Validate and trace SillyTavern regex behavior with deterministic fixtures across source placement, display/prompt or card-only raw stage, depth, enabled state, and optional boolean flags. Use when authoring or debugging character-local Tavern regex JSON, comparing card and Tavern Helper regex dialects, reproducing a replacement outside the host, or explaining which render stage accepted or skipped a rule. Do not treat the offline runner as proof of the installed SillyTavern engine.'
+description: '【正则|渲染替换|正则链路】Validate and trace SillyTavern regex behavior with deterministic fixtures across source placement, display/prompt or card-only raw stage, depth, enabled state, and optional boolean flags. Use when authoring or debugging character-local Tavern regex JSON, comparing card and Tavern Helper regex dialects, reproducing a replacement outside the host, or explaining which render stage accepted or skipped a rule. Do not treat the offline runner as proof of the installed SillyTavern engine.'
+trigger: '正则|渲染替换|正则链路|显示替换'
 ---
 
 # SillyTavern Render Regex Pipeline
