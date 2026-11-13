@@ -1,6 +1,7 @@
 ---
 name: code-quality-workflow
-description: 'End-to-end code quality workflow for evidence-backed code review, full repository reviews, architecture reviews of software and character-card systems, refactor decisions, authorized minimal changes, and verification. Use for 全量审查、架构审查、全量架构审查, code or diff audits, cleanup triage, or a scoped quality fix. Preserve coverage gaps and keep audit-only requests read-only. Soul/persona voice does not change review ownership.'
+description: '【代码审查|全量审查|架构审查|质量把关】End-to-end code quality workflow for evidence-backed code review, full repository reviews, architecture reviews of software and character-card systems, refactor decisions, authorized minimal changes, and verification. Use for 全量审查、架构审查、全量架构审查, code or diff audits, cleanup triage, or a scoped quality fix. Preserve coverage gaps and keep audit-only requests read-only. Soul/persona voice does not change review ownership.'
+trigger: '代码审查|全量审查|架构审查|代码质量|漏洞'
 ---
 
 # Code Quality Workflow
