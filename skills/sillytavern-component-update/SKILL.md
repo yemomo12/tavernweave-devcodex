@@ -1,6 +1,7 @@
 ---
 name: sillytavern-component-update
-description: 'Build and validate the smallest SillyTavern rolecard component update while making the delivery boundary explicit. Use when changing only character-local regexes, Tavern Helper scripts or script folders, exporting importable component JSON, preparing a batch of component artifacts, or choosing between component-only delivery and a full-card packaging handoff. Do not silently repack a whole card; route authorized full-card assembly to sillytavern-card-pipeline.'
+description: '【改组件|改正则|改脚本】Build and validate the smallest SillyTavern rolecard component update while making the delivery boundary explicit. Use when changing only character-local regexes, Tavern Helper scripts or script folders, exporting importable component JSON, preparing a batch of component artifacts, or choosing between component-only delivery and a full-card packaging handoff. Do not silently repack a whole card; route authorized full-card assembly to sillytavern-card-pipeline.'
+trigger: '改组件|改正则|改脚本|组件更新'
 ---
 
 # SillyTavern Component Update
