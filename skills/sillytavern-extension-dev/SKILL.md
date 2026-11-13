@@ -1,6 +1,7 @@
 ---
 name: sillytavern-extension-dev
-description: 'Scaffold, validate, review, and prepare browser-side SillyTavern UI extensions. Use when the task requires creating or inspecting an extension manifest, entry module, lifecycle hooks, settings namespace, capability contract, version preflight, or installation smoke plan without installing into a live SillyTavern instance.'
+description: '【酒馆扩展|ST扩展|UI扩展】Scaffold, validate, review, and prepare browser-side SillyTavern UI extensions. Use when the task requires creating or inspecting an extension manifest, entry module, lifecycle hooks, settings namespace, capability contract, version preflight, or installation smoke plan without installing into a live SillyTavern instance.'
+trigger: '酒馆扩展|ST扩展|UI扩展|浏览器扩展'
 ---
 
 # SillyTavern Extension Development
