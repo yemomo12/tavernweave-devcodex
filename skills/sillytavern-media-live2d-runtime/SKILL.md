@@ -1,6 +1,7 @@
 ---
 name: sillytavern-media-live2d-runtime
-description: 'Validate and plan SillyTavern rolecard audio, image, video, multimodal, and Live2D assets with explicit provenance, preload, binding, capability, fallback, and lifecycle contracts. Use when the task requires media manifests, Tavern Helper audio wiring, Live2D adapter boundaries, deterministic preload budgets, or real-host acceptance plans without downloading or executing remote media.'
+description: '【立绘|Live2D|语音|媒体资源】Validate and plan SillyTavern rolecard audio, image, video, multimodal, and Live2D assets with explicit provenance, preload, binding, capability, fallback, and lifecycle contracts. Use when the task requires media manifests, Tavern Helper audio wiring, Live2D adapter boundaries, deterministic preload budgets, or real-host acceptance plans without downloading or executing remote media.'
+trigger: '立绘|Live2D|语音|媒体|图片资源|音频'
 ---
 
 # SillyTavern Media and Live2D Runtime
