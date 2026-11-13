@@ -1,6 +1,7 @@
 ---
 name: sillytavern-card-components
-description: 'Safely disassemble SillyTavern character cards from JSON or PNG into sandboxed, reviewable components, and design or maintain registry-driven component libraries and recipes. Use when extracting a card, modularizing worldbook, MVU, regex, helper-script, message, or embedded UI content, tracing a coupled variable-field chain, declaring embedded/host/remote/regional runtime dependencies, resolving component dependencies or conflicts, validating a source-to-artifact round trip, or promoting a proven version back into a shared component library. Do not use for routine packaging of an already-defined release; use sillytavern-card-pipeline instead.'
+description: '【拆卡|卡组件|角色卡拆解】Safely disassemble SillyTavern character cards from JSON or PNG into sandboxed, reviewable components, and design or maintain registry-driven component libraries and recipes. Use when extracting a card, modularizing worldbook, MVU, regex, helper-script, message, or embedded UI content, tracing a coupled variable-field chain, declaring embedded/host/remote/regional runtime dependencies, resolving component dependencies or conflicts, validating a source-to-artifact round trip, or promoting a proven version back into a shared component library. Do not use for routine packaging of an already-defined release; use sillytavern-card-pipeline instead.'
+trigger: '拆卡|卡组件|拆解角色卡|组件'
 ---
 
 # SillyTavern Card Components
