@@ -1,6 +1,7 @@
 ---
 name: device-shell-rules
-description: 本机 DevCodex 环境强制规则。Termux 沙盒已损坏（ld 缺 libreadline.so.8，直接报 CANNOT LINK EXECUTABLE），所以严禁使用 linux_exec、python_run、node_run、pipeline_run、sandbox_pkg_install；所有 shell 操作一律用 shell_exec（Shizuku ADB，uid 2000）。任何需要 shell、脚本、文本处理、JSON 校验、联网下载的任务，第一时间就走 shell_exec。此外 Android 的 sed/awk/cut 处理超长行（>4万字节）会静默截断，禁止用来解析大 JSON；手机无 root 无法读写 /data/user/0 私有目录；应用工作区 /storage/emulated/0/Android/data/ai.devcodex.agent/files/workspace 可直接读写。
+description: '【本机命令|shell|沙盒|执行报错】本机 DevCodex 环境强制规则。Termux 沙盒已损坏（ld 缺 libreadline.so.8，直接报 CANNOT LINK EXECUTABLE），所以严禁使用 linux_exec、python_run、node_run、pipeline_run、sandbox_pkg_install；所有 shell 操作一律用 shell_exec（Shizuku ADB，uid 2000）。任何需要 shell、脚本、文本处理、JSON 校验、联网下载的任务，第一时间就走 shell_exec。此外 Android 的 sed/awk/cut 处理超长行（>4万字节）会静默截断，禁止用来解析大 JSON；手机无 root 无法读写 /data/user/0 私有目录；应用工作区 /storage/emulated/0/Android/data/ai.devcodex.agent/files/workspace 可直接读写。'
+trigger: '本机命令|shell|执行|报错|沙盒|权限|终端|写文件'
 ---
 
 # 本机环境规则（DevCodex on Android）
