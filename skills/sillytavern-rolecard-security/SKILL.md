@@ -1,6 +1,7 @@
 ---
 name: sillytavern-rolecard-security
-description: 'Audit SillyTavern rolecard JSON, embedded HTML, regex replacements, Tavern Helper scripts, loaders, and related source for injection, dynamic execution, remote-code, wildcard messaging, credential-shape, and permission risks. Use for a read-only rolecard security review, a pre-import or pre-release safety gate, or comparison against an approved security baseline. Do not execute suspicious code, reveal secret values, perform exploitation, or auto-fix findings.'
+description: '【卡安全|审计|可疑代码】Audit SillyTavern rolecard JSON, embedded HTML, regex replacements, Tavern Helper scripts, loaders, and related source for injection, dynamic execution, remote-code, wildcard messaging, credential-shape, and permission risks. Use for a read-only rolecard security review, a pre-import or pre-release safety gate, or comparison against an approved security baseline. Do not execute suspicious code, reveal secret values, perform exploitation, or auto-fix findings.'
+trigger: '卡安全|审计|可疑代码|加密混淆|安全'
 ---
 
 # SillyTavern Rolecard Security
