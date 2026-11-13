@@ -1,6 +1,7 @@
 ---
 name: sillytavern-database-rolecards
-description: 'Design and validate structured in-card data models for SillyTavern rolecards, including table schemas, stable record keys, MVU message-floor storage, field bindings, deterministic migrations, and status-bar or control-center consumers. Use when a rolecard behaves like a small database application or needs schema and migration fixtures across normal multi-floor conversations. Do not introduce an external SQL service or claim same-floor compatibility without real-host evidence.'
+description: '【卡内数据库|变量表|MVU数据】Design and validate structured in-card data models for SillyTavern rolecards, including table schemas, stable record keys, MVU message-floor storage, field bindings, deterministic migrations, and status-bar or control-center consumers. Use when a rolecard behaves like a small database application or needs schema and migration fixtures across normal multi-floor conversations. Do not introduce an external SQL service or claim same-floor compatibility without real-host evidence.'
+trigger: '卡内数据库|变量表|数据模型|MVU数据|表结构'
 ---
 
 # SillyTavern Database Rolecards
