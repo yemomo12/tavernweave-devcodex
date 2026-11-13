@@ -1,6 +1,7 @@
 ---
 name: rewrite-natural-prose
-description: 'Refine prose and everyday explanations to remove formulaic AI phrasing, empty rhetoric, repetitive structure, and generic character voices while preserving meaning and technical syntax. Use for 洗稿、去 AI 味、去八股、自然表达, or to enable, inspect, or exit an explicitly requested continuous or persistent rewriting mode. Supports character-card prose, dialogue, narrative, documentation, plans, and reports; ordinary card creation does not activate a persistent mode.'
+description: '【去AI味|润色|自然表达|口语化】Refine prose and everyday explanations to remove formulaic AI phrasing, empty rhetoric, repetitive structure, and generic character voices while preserving meaning and technical syntax. Use for 洗稿、去 AI 味、去八股、自然表达, or to enable, inspect, or exit an explicitly requested continuous or persistent rewriting mode. Supports character-card prose, dialogue, narrative, documentation, plans, and reports; ordinary card creation does not activate a persistent mode.'
+trigger: '去AI味|润色|自然表达|口语化|改写'
 ---
 
 # 文本精修 · 去 AI 味与去八股
